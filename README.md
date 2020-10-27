@@ -1,3 +1,6 @@
+This is a first commit, the app mostly works. That is to say that the main functions of it run. There are a couple of bugs but 
+I'll work them out and push them to the repo later.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
